@@ -27,7 +27,6 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    &nbsp;
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
