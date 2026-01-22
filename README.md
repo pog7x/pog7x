@@ -35,7 +35,6 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    &nbsp;
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -44,7 +43,6 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    &nbsp;
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
@@ -53,7 +51,6 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    &nbsp;
     <a href="https://react.dev/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
@@ -62,7 +59,6 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    &nbsp;
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
@@ -71,7 +67,6 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    &nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
@@ -80,7 +75,6 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    &nbsp;
     <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
@@ -104,7 +98,6 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    &nbsp;
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
@@ -113,7 +106,6 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    &nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
@@ -122,7 +114,6 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    &nbsp;
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
@@ -131,7 +122,6 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    &nbsp;
     <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg"
@@ -140,7 +130,6 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    &nbsp;
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"
@@ -149,7 +138,6 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    &nbsp;
     <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
     	<img
     		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg"
@@ -171,7 +159,6 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    &nbsp;
     <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg"
@@ -180,7 +167,6 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    &nbsp;
     <a href="https://redis.io/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
@@ -189,7 +175,6 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    &nbsp;
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
@@ -203,18 +188,10 @@ Currently I'm:
 ## 📈 Github Stats
 
 <p align="left">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=pog7x&custom_title=pog7x's+Github+Stats&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" alt="pog7x's Github Stats">
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pog7x&theme=tokyonight&layout=compact&langs_count=10" alt="Top Languages">
-        </a>
-      </td>
-    </tr>
-  </table>
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+	  <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=pog7x&custom_title=pog7x's+Github+Stats&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" alt="pog7x's Github Stats">
+	</a>
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+	  <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pog7x&theme=tokyonight&layout=compact&langs_count=10" alt="Top Languages">
+	</a>
 </p>
