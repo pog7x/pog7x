@@ -43,6 +43,14 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+			alt="javascript"
+			width="40"
+			height="40"
+		/>
+	</a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
@@ -187,11 +195,11 @@ Currently I'm:
 
 ## 📈 Github Stats
 
-<p align="left">
-	<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
+	<a href="https://github.com/pog7x">
 	  <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=pog7x&custom_title=pog7x's+Github+Stats&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" alt="pog7x's Github Stats">
 	</a>
-	<a href="https://github.com/anuraghazra/github-readme-stats">
+	<a href="https://github.com/pog7x">
 	  <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pog7x&theme=tokyonight&layout=compact&langs_count=10" alt="Top Languages">
 	</a>
 </p>
