@@ -6,13 +6,6 @@
     <img src="https://komarev.com/ghpvc/?username=pog7x&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter" />
 </p>
 
-## Contents
-
-- [About me](#about-me)
-- [Favorite languages](#favorite-languages)
-- [Tools and technologies](#tools-and-technologies)
-- [GitHub stats](#github-stats)
-
 ## About me
 
 Welcome to my GitHub page. I use it as a portfolio of code and projects.
