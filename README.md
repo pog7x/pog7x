@@ -1,12 +1,21 @@
 # Greetings, I'm pog7x! 👋
 
-[![MasterHead](https://i.pinimg.com/originals/d4/63/f2/d463f24b0e1f3f1ce6680d601c97e6a0.gif)](https://github.com/pog7x)
+![Animated header banner with a code-themed background](https://i.pinimg.com/originals/d4/63/f2/d463f24b0e1f3f1ce6680d601c97e6a0.gif)
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=pog7x&label=Profile%20views&color=0e75b6&style=flat" alt="pog7x" />
+    <img src="https://komarev.com/ghpvc/?username=pog7x&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter" />
 </p>
 
-Welcome to my Github page. I use it as a portfolio of code and projects.
+## Contents
+
+- [About me](#about-me)
+- [Favorite languages](#favorite-languages)
+- [Tools and technologies](#tools-and-technologies)
+- [GitHub stats](#github-stats)
+
+## About me
+
+Welcome to my GitHub page. I use it as a portfolio of code and projects.
 
 Currently I'm:
 
@@ -18,87 +27,14 @@ Currently I'm:
 
 ## 📑 Favorite Languages
 
-<p align="left">
-	<a href="https://go.dev/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-			alt="go"
-			width="40"
-			height="40"
-		/>
-	</a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-			alt="python"
-			width="40"
-			height="40"
-		/>
-	</a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-			alt="typescript"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-			alt="javascript"
-			width="40"
-			height="40"
-		/>
-	</a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
-			alt="vuejs"
-			width="40"
-			height="40"
-		/>
-	</a>
-    <a href="https://react.dev/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-			alt="react"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-			alt="html5"
-			width="40"
-			height="40"
-		/>
-	</a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-			alt="css3"
-			width="40"
-			height="40"
-		/>
-	</a>
-    <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
-			alt="flutter"
-			width="40"
-			height="40"
-		/>
-	</a>
-</p>
+<p align="left"><a href="https://go.dev/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" /></a><a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a><a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" /></a><a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" /></a><a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" /></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" /></a><a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" /></a></p>
 
 ## 🔧 Tools & Technologies
 
 ### Development Tools
 
 <p align="left">
-	<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+	<a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
 			alt="linux"
@@ -106,7 +42,7 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
 			alt="vscode"
@@ -114,7 +50,7 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
 			alt="git"
@@ -122,7 +58,7 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
 			alt="docker"
@@ -130,7 +66,7 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
+    <a href="https://www.elastic.co/" target="_blank" rel="noopener noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg"
 			alt="elasticsearch"
@@ -138,7 +74,7 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"
 			alt="postman"
@@ -146,7 +82,7 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
+    <a href="https://dbeaver.io/" target="_blank" rel="noopener noreferrer">
     	<img
     		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg"
     		alt="dbeaver"
@@ -159,7 +95,7 @@ Currently I'm:
 ### Backend & Databases
 
 <p align="left">
-	<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+	<a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
 			alt="postgresql"
@@ -167,7 +103,7 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.rabbitmq.com/" target="_blank" rel="noopener noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg"
 			alt="rabbitmq"
@@ -175,7 +111,7 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <a href="https://redis.io/" target="_blank" rel="noopener noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
 			alt="redis"
@@ -183,7 +119,7 @@ Currently I'm:
 			height="40"
 		/>
 	</a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
 			alt="mongodb"
@@ -197,7 +133,7 @@ Currently I'm:
 
 <p align="center">
 	<a href="https://github.com/pog7x">
-	  <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=pog7x&custom_title=pog7x's+Github+Stats&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" alt="pog7x's Github Stats">
+	  <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=pog7x&custom_title=pog7x%27s+GitHub+Stats&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" alt="pog7x's GitHub stats">
 	</a>
 	<a href="https://github.com/pog7x">
 	  <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pog7x&theme=tokyonight&layout=compact&langs_count=10" alt="Top Languages">
